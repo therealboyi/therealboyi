@@ -71,11 +71,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=therealboyi&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealboyi&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=therealboyi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealboyi&show_icons=true&locale=en)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=therealboyi)
 
 ```bash
 // Run to see comprehensive skills
