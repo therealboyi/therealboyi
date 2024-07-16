@@ -91,6 +91,7 @@ const listAllSkillsWithCategories = () => {
   };
 
   let allSkillsWithCategories = [];
+  console.log("Skills Data:", JSON.stringify(skillsData, null, 2)); // Format the output with 2-space indentation
   for (let category in skillsData) {
     skillsData[category].forEach(skill => {
       allSkillsWithCategories.push({ category, skill });
@@ -100,5 +101,5 @@ const listAllSkillsWithCategories = () => {
 };
 
 const allSkillsWithCategories = listAllSkillsWithCategories();
-console.log(allSkillsWithCategories);
+console.log("All Skills with Categories:", JSON.stringify(allSkillsWithCategories, null, 2)); // Format the output with 2-space indentation
 ```
