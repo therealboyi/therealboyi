@@ -78,7 +78,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=therealboyi)
 
 ```bash
-# Run to see comprehensive skills
+// Run to see comprehensive skills
 
 const listAllSkillsWithCategories = () => {
   const skillsData = {
