@@ -14,7 +14,7 @@
 
 ### 🌐 **Online Presence**
 
-- 👨‍💻 **Projects:** From web development to AI experiments, you can check out all of my projects on [GitHub](https://github.com/therealboyi).
+- 👨‍💻 **Projects:** From web development to AI experiments, you can check out all of my projects on [GitHub](https://github.com/therealboyi?tab=repositories).
 - 💬 **Ask Me About:** React, JavaScript, TypeScript, or anything tech-related. I'm also a huge space enthusiast, so if you're curious about the cosmos, let's chat!
 - 📫 **Reach Me At:** Whether you have a question, a project idea, or just want to connect, drop me a line at **boyijayjay@gmail.com**.
 - ⚡ **Fun Fact:** By day, I craft code like a wizard; by night, I patrol the city as **Batman** (or at least that's what I tell myself!).
